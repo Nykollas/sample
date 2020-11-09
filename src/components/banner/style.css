@@ -1,0 +1,11 @@
+.banner--container{
+   height:100%;
+   width: 60vw;
+  
+}
+.banner--container img{
+    height:100%;
+    width: 55vw;
+    object-fit: cover;
+    
+}
